@@ -53,4 +53,4 @@ Nenhum software adicional é necessário; basta ter acesso a um asistente de IA.
 
 ## Contribuição
 Contribuições são bem-vindas! Abra um issue ou envie um pull request com melhorias de texto, novos exemplos ou traduções.
-Sinta-se a vontade para escrever para mailto:renatomnatali@gmail.com
+Sinta-se a vontade para escrever para [renatomnatali@gmail.com](mailto:renatomnatali@gmail.com)
