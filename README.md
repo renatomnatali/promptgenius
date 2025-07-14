@@ -10,3 +10,4 @@ Com um bom meta-prompt, você transforma qualquer assistente de IA (como o ChatG
 
 ## Experimente e me conte: 
 Quais melhorias de produtividade você percebe? Vou adorar trocar ideias e evoluir esse meta-prompt junto com a comunidade.
+### renatomnatali@gmail.com
