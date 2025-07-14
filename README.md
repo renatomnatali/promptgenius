@@ -1,4 +1,4 @@
-#PromptGenius
+# PromptGenius
 
 ## Você já usou um prompt que cria prompts?
 Muita gente já domina o básico do prompt engineering, mas poucos exploram o verdadeiro salto de produtividade que vem com os meta-prompts — instruções que constroem outras instruções de forma dinâmica e iterativa.
