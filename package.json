@@ -1,0 +1,30 @@
+{
+  "name": "ai-prompt-agent",
+  "version": "1.0.0",
+  "description": "Agente de IA para ajudar usuários a criarem prompts melhores para o ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openai",
+    "chatgpt",
+    "prompt",
+    "ai",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "openai": "^4.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "helmet": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+} 
